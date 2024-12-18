@@ -486,12 +486,12 @@ main {
 
 @media only screen and (max-width: 600px) {
   .websaite-header img {
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     padding: 5px;
   }
   .websaite-header h1 {
-    font-size: 28px;
+    font-size: 25px;
   }
   .breaking-news-section {
     padding: 10px;
